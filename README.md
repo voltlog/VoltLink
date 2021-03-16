@@ -3,7 +3,7 @@ VoltLink is a USB to serial adapter board based on the popular CP2104 chip with 
 
 You have the option of connecting throught the VoltLink connector which is a JST-SH 1.0mm pitch 6 pin connector that saves space on the target board or via standard 0.1 inch pin header. 
 
-If you would like to order one of these adapters ready assembled, check out my [Tindie store](https://www.tindie.com/products/voltlog/emmc-wfbga153-to-microsd-card-adapter-set-of-2/).
+If you would like to order one of these adapters ready assembled, check out my [Tindie store](https://www.tindie.com/products/23076/).
 
 More info about this project in [Voltlog #356](https://youtu.be/ag2LE_MbWCE).
 
