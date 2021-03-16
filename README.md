@@ -7,5 +7,7 @@ If you would like to order one of these adapters ready assembled, check out my [
 
 More info about this project in [Voltlog #356](https://youtu.be/ag2LE_MbWCE).
 
+Known issues in revA: RX & TX LEDs are marked the wrong way around. Meaning Red LED is TX and Green LED is RX.
+
 ![Image of the assembled PCB](voltlink.jpg)
 
