@@ -5,8 +5,6 @@ To flash the ESP32 you can use a VoltLink usb/serial converter or you can use yo
 
 If you would like to order one of these boards ready assembled, check out my [Tindie store](https://www.tindie.com/stores/voltlog/).
 
-More info about this project in [Voltlog #383](https://youtu.be/kZS3ggG0QJI).
-
 ### Known issues in revA
 #1 Starting with Tasmota releases newer than v9.5.0 Tasmota started using IO16, IO17 to connect to external PSRAM and due to the way Tasmota implements this, it continously tries to talk to the external PSRAM, without considering the type of hardware, whether it contains any PSRAM or not. As a consequence, IO16, IO17 will show constant SPI traffic so IT IS RECOMMENDED YOU FLASH REV.A HW WITH TASMOTA V9.5.0 MAX!
 
