@@ -8,3 +8,5 @@ You have the option of connecting throught the VoltLink connector which is a JST
 If you would like to order one of these adapters ready assembled, check out my [Tindie store](https://www.tindie.com/products/23076/).
 
 More info about this project in [Voltlog #405](https://youtu.be/4uZt7zaJOnc).
+
+![Image of the assembled PCB](voltlink.jpg)
